@@ -1,0 +1,46 @@
+
+body {
+	background-color: lightgreen;
+}
+.tu-madre {
+	height: 75px;
+	width: 75px;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 50px;
+	margin: 20px auto;
+	background-color: black !important;
+	opacity: 1;
+}
+.tu-madre:hover{
+	opacity: 0.5;
+}
+#tu-familia {
+	width: 20%;
+	height: 20%;
+	border-style: solid;
+	border-width: 5px;
+	margin: auto;
+	background-color: rgba(255,255,255,.9);
+	box-shadow: 5px 10px;
+}
+#tu-hermana {
+	background-image: linear-gradient(red, black);
+}
+#tu-prima {
+	background-image: linear-gradient(yellow, black);
+}
+#tu-tia {
+	background-image: linear-gradient(green, black);
+}
+h1 {
+	text-align: center;
+}
+#tu-padre {
+	margin: auto;
+	background-color: black;
+	border-style: solid;
+	border-width: 2px;
+	height: 300px;
+	width: 90px;
+}

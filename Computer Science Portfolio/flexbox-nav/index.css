@@ -1,0 +1,13 @@
+.container {
+  border: 5px solid #ffcc5c;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+}
+#tu-madre {
+margin-left: auto;
+flex: 1;
+}
+#tu-hermana {
+  flex: 1;
+}
